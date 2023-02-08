@@ -1,0 +1,29 @@
+{
+    "type": "module",
+    "dependencies": {
+        "chatgpt": "^4.2.0",
+        "cors": "^2.8.5",
+        "express": "^4.18.2",
+        "free-translate": "^0.6.1",
+        "google-translate": "^3.0.0",
+        "google-translate-free": "^2.4.5",
+        "openai": "^3.1.0"
+    },
+    "name": "homeworkapp",
+    "description": "",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JustDev-08/HomeWorkApp.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/JustDev-08/HomeWorkApp/issues"
+    },
+    "homepage": "https://github.com/JustDev-08/HomeWorkApp#readme"
+}
